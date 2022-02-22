@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(to bottom right, rgb(0, 247, 255), rgb(255, 103, 255))
+}
+.card-img{
+    weight: 32px;
+    height: 32px;
+}
+.container{
+    weight: 100%;
+}
+
+.btn-lg{
+    background-color: rgb(190, 116, 255);
+}
+.btn-lg:hover{
+    background-color: rgb(255, 0, 0);
+}
