@@ -1,6 +1,6 @@
 body {
     font-family: 'Open Sans', sans-serif;
-    background-image: linear-gradient(to bottom right, #00F490, #00BBC9);
+    background-image: linear-gradient(to bottom right, rgb(0, 247, 255), rgb(255, 103, 255))
     /* background-image: url('../images/product1.png'); */
 }
 
