@@ -1,22 +1,22 @@
-body {
+body{
     font-family: 'Open Sans', sans-serif;
     background-image: linear-gradient(to bottom right, rgb(0, 247, 255), rgb(255, 103, 255))
     /* background-image: url('../images/product1.png'); */
 }
-
 h1 {
     font-family: 'Abril Fatface', cursive;
 }
-
-/* .lead a {
-    margin-top: 100px;
-} */
-
-.btn-outline-dark {
-    border-color: white;
+.card-img{
+    weight: 32px;
+    height: 32px;
+}
+.container{
+    weight: 100%;
 }
 
-.btn-learn:hover {
-    background-color: rgb(255, 255, 255, 0.201);
+.btn-lg{
+    background-color: rgb(190, 116, 255);
 }
-
+.btn-lg:hover{
+    background-color: rgb(255, 0, 0);
+}
